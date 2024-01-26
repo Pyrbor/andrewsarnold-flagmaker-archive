@@ -1,0 +1,21 @@
+name=Czech Republic
+ratio=2:3
+gridsize=4:6
+
+division
+type=grid
+color1=ffffff
+color2=d7141a
+size1=1
+size2=2
+size3=1
+
+overlay
+type=triangle
+color=11457e
+size1=0
+size2=0
+size3=3
+size4=2
+size5=0
+size6=4
